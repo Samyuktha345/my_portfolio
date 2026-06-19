@@ -4,7 +4,7 @@ function Projects({ selectedSkill }) {
       title: "Portfolio Website",
       skills: ["HTML", "CSS", "React"],
       desc: "Built using React to showcase my portfolio.",
-      links:"https://github.com/"
+      links:"https://github.com/Samyuktha345/my_portfolio"
     },
     {
       title: "Employee Payroll System",
